@@ -1,0 +1,3 @@
+name = Dobri
+size = 200
+email = dobri@dir.bg
